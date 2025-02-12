@@ -1,7 +1,7 @@
 {
   "name": "bookshelf-api",
   "version": "1.0.0",
-  "description": "\"aplikasi back-end untuk submission bookshelf di Dicoding\"",
+  "description": "\"Aplikasi back-end untuk submission bookshelf di Dicoding\"",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
